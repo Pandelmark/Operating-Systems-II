@@ -2,11 +2,9 @@
 
 Χρησιμοποιόντας τις κατάλληλες εντολές "fork()" το πρόγραμμα "processes1-2" δημιουργεί συνολικά (μαζί με το κυρίως
 πρόγραμμα) έξι διεργασίες, με την ακόλουθη δομή (δέντρο) συγγένειας:
-	P0
-	/ \
-      P1   P2
-          / | \
-         P3 P4 P5
+
+![image](https://user-images.githubusercontent.com/73886448/160827909-caaa8b4c-903b-47c9-818c-071d2651404e.png)
+
 Το παρακάτω πρόγραμμα γλώσσας προγραμματισμού C ως κύριο μέρος της εργασίας της κάθε διεργασίας Pi τυπώνει ένα μήνυμα 
 στην οθόνη που να δηλώνει το όνομά της (Pi), το PID της και το PPID της. Το πρόγραμμα συμπεριλαμβάνει επιπλέον
 τις κατάλληλες εντολές αναμονής-επικοινωνίας ώστε να ικανοποιούνται οι ακόλουθοι περιορισμοί-απαιτήσεις: (α)
@@ -20,11 +18,9 @@
 
 Using the appropriate "fork ()" commands the "processes1-2" program creates a total (along with the main
 program) six processes, with the following affinity structure (tree):
-       P0
-       / \
-      P1 P2
-	/ | \
-       P3 P4 P5
+ 
+ ![image](https://user-images.githubusercontent.com/73886448/160827978-73fc42ff-5e03-466b-be7b-bbd4bd568020.png)
+
 The following programming language program C as the main part of the work of each Pi process prints a message
 on the screen indicating its name (Pi), its PID and its PPID. The program also includes
 the appropriate standby-communication orders to meet the following restrictions-requirements: (a)
