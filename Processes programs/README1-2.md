@@ -1,3 +1,4 @@
+**Operating Systems-II**
 Χρησιμοποιόντας τις κατάλληλες εντολές "fork()" το πρόγραμμα "processes1-2" δημιουργεί συνολικά (μαζί με το κυρίως
 πρόγραμμα) έξι διεργασίες, με την ακόλουθη δομή (δέντρο) συγγένειας:
 	P0
@@ -14,7 +15,7 @@
 τη διεργασία P1 (και να το τυπώνει στην στην οθόνη). Τέλος, η διεργασία P0 με το πέρας της εκτέλεσής της
 αντικαθίσταται από την εντολή ps.
 
--- English version:
+**English translation:**
 Using the appropriate "fork ()" commands the "processes1-2" program creates a total (along with the main
 program) six processes, with the following affinity structure (tree):
        P0
