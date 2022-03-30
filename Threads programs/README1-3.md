@@ -1,3 +1,6 @@
+**Operating Systems-II**
+
+
 ==Το ακόλουθο πρόγραμμα έχει υλοποιηθεί σε τερματικό linux και μεταγλωτιστεί με τον 'gcc' μεταγλωτιστή.==
 
 To πρόγραμμα "threads1-3" σε C υπολογίζει «παράλληλα» το άθροισμα των τετραγώνων των στοιχείων
@@ -24,7 +27,7 @@ To πρόγραμμα "threads1-3" σε C υπολογίζει «παράλλη�
 - μεταβλητή 7: 7
 - μεταβλητή 8: 8
 
--- English version:
+**English translation:**
 
 == The following program has been implemented on a linux terminal and has been compiled with the 'gcc' compiler. ==
 
