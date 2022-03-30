@@ -17,6 +17,7 @@
 αντικαθίσταται από την εντολή ps.
 
 **English translation:**
+
 Using the appropriate "fork ()" commands the "processes1-2" program creates a total (along with the main
 program) six processes, with the following affinity structure (tree):
        P0
